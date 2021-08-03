@@ -45,8 +45,8 @@ h4{
 }
 
 td{
-    width: 8rem ;  
-    height: 8rem;  
+    width: 5rem ;  
+    height: 5rem;  
     margin: 0;
     padding: 0;
 }
@@ -60,16 +60,16 @@ table{
 
 img{
     display: block;
-    width: 8em;
-    height: 8em;
+    width: 6em;
+    height: 6em;
     padding: 0;
     margin: 0;
 }
 
 .resultado{
     position: relative;
-    width: 32em;
-    height: 32em;
+    width: 24em;
+    height: 24em;
 
 
 }
